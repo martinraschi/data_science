@@ -1,0 +1,449 @@
+id;provincia;ciudad;precio;cuotas_cantidad;cuotas_valor;cuotas_interes;envio_gratis;ventas_calif_positivas;estado;marca;modelo;gpu;procesador;peso;titulo;GB_RAM;GB_memoria
+MLA1160376631;Buenos Aires;Béccar;26399.0;12;4263.66;93.81;1;0.97;Nuevo;Konka;Indus;;;;Konka Indus Dual Sim 32 Gb  Negro 3 Gb Ram;32.0;32.0
+MLA1142471087;Buenos Aires;Villa Celina;46999.0;3;15666.33;0.0;1;0.92;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0; Moto G22 128 Gb  Iceberg Blue 4 Gb Ram;4.0;128.0
+MLA918476214;Buenos Aires;Villa Celina;75999.0;6;12666.5;0.0;1;0.92;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Samsung Galaxy A32 128 Gb  Awesome Blue 4 Gb Ram;4.0;128.0
+MLA1138106133;Buenos Aires;Villa Celina;42999.0;6;7166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 64 Gb  Negro 4 Gb Ram;64.0;64.0
+MLA1142858326;Buenos Aires;Villa Celina;60999.0;6;10166.5;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 128gb + 4gb Ram Pls Lcd Negro;4.0;128.0
+MLA1146863852;Capital Federal;Belgrano;47999.0;6;7999.83;0.0;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 128 Gb  Negro 4 Gb Ram;64.0;64.0
+MLA1134324568;Buenos Aires;Villa Celina;36999.0;6;6166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 32 Gb  Negro 3 Gb Ram;64.0;64.0
+MLA1131836055;Córdoba;Córdoba;31499.0;3;10499.67;0.0;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32 Gb  Black 2 Gb Ram;32.0;32.0
+MLA1143726354;Buenos Aires;Villa Celina;55999.0;6;9333.17;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Samsung Galaxy A13 64 Gb  White 4 Gb Ram;4.0;128.0
+MLA1147847158;Buenos Aires;Villa Celina;41999.0;3;13999.67;0.0;1;0.92;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0; Moto E40 64 Gb  Rosa Champagne 4 Gb Ram;64.0;64.0
+MLA1150208930;Capital Federal;Barracas;66149.0;6;11024.83;0.0;1;0.87;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0; Moto G52 128 Gb  Charcoal Grey 6 Gb Ram;6.0;128.0
+MLA1118983010;Buenos Aires;Villa Celina;61999.0;6;10333.17;0.0;1;0.92;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Tcl 20 Se 256 Gb  Nuit Black 6 Gb Ram;256.0;256.0
+MLA1143118546;Buenos Aires;Villa Celina;72999.0;6;12166.5;0.0;1;0.92;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Samsung Galaxy A23 128 Gb Light Blue 4 Gb Ram;4.0;128.0
+MLA1146682404;Buenos Aires;Villa Celina;17499.0;12;2826.23;93.81;1;0.92;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Alcatel 1 Plus 16 Gb  Negro 1 Gb Ram;16.0;16.0
+MLA1106716435;Buenos Aires;Villa Celina;19999.0;3;6666.33;0.0;1;0.92;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Quantum Yolo Dual Sim 32 Gb  Negro 1 Gb Ram;32.0;32.0
+MLA1141202428;Buenos Aires;Villa Celina;122999.0;6;20499.83;0.0;1;0.92;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Samsung Galaxy A53 5g 128 Gb  Awesome Black 6 Gb Ram;6.0;128.0
+MLA1140081008;Buenos Aires;Béccar;95999.0;6;15999.83;0.0;1;0.97;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Samsung Galaxy A33 5g 128 Gb Awesome Black 6 Gb Ram;6.0;128.0
+MLA1151914952;Capital Federal;Barracas;68249.0;6;11374.83;0.0;1;0.87;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Samsung Galaxy A22 5g 128 Gb  White 4 Gb Ram;4.0;128.0
+MLA934629506;Capital Federal;C.A.B.A;23525.0;12;3799.48;93.81;1;0.92;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Tcl L7+ 32 Gb  Negro 2 Gb Ram;32.0;32.0
+MLA1150954090;Buenos Aires;Acassuso;73999.0;12;11951.46;93.81;1;0.97;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 (snapdragon) Dual Sim 128 Gb  Gris Grafito 4 Gb Ram;4.0;128.0
+MLA1120890965;Buenos Aires;Villa Celina;122999.0;6;20499.83;0.0;1;0.92;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Samsung Galaxy A52s 5g 128 Gb  Awesome Black 6 Gb Ram;6.0;128.0
+MLA1135473054;Mendoza;Mendoza;48999.0;12;7913.75;93.81;1;0.98;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0; Moto G41 128 Gb  Negro Ónix 4 Gb Ram;4.0;128.0
+MLA1153276210;Buenos Aires;Béccar;26899.0;12;4344.41;93.81;1;0.97;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Smart Kodak Seren D65lx Negro Color Negro;64.0;64.0
+MLA1151936984;Buenos Aires;San Justo;9398.12;12;1517.87;93.81;1;0.95;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Ipro F183 Dual Sim 32 Mb  Negro 32 Mb Ram;1.0;1.0
+MLA1164478015;Capital Federal;Chacarita;99900.0;12;16134.68;93.81;1;0.92;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro (global) Dual Sim 128 Gb  Gris Ónix 6 Gb Ram;6.0;128.0
+MLA1153524768;Buenos Aires;Villa Celina;31499.0;6;5249.83;0.0;1;0.92;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32gb Octa-core 2gb Ram;32.0;32.0
+MLA1136254616;Buenos Aires;Villa Celina;46999.0;6;7833.17;0.0;1;0.92;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 128gb + 4gb Ram 4g Lte 90hz Negro;4.0;128.0
+MLA1141900808;Buenos Aires;Villa Celina;62999.0;6;10499.83;0.0;1;0.92;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128gb 6gb Ram Amoled 90hz Liberado;6.0;128.0
+MLA1156519991;Buenos Aires;Campana;26699.0;12;4312.11;93.81;1;0.86;Nuevo;ZTE;A5 Plus;;;155.0;Zte Blade A5 Plus 32 Gb  Negro 2 Gb Ram;32.0;32.0
+MLA1136203613;Buenos Aires;Villa Celina;46999.0;6;7833.17;0.0;1;0.92;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 128gb 4gb Ram 90hz Celeste Ártico;4.0;128.0
+MLA1142858614;Buenos Aires;Acassuso;126899.0;12;20495.25;93.81;1;0.97;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 256 Gb  Laser Black 8 Gb Ram;256.0;256.0
+MLA1135436906;Buenos Aires;Villa Celina;55999.0;6;9333.17;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 64gb + 4gb Ram Pls Lcd Liberado;4.0;128.0
+MLA1133115544;Buenos Aires;Villa Celina;36999.0;6;6166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 32gb + 3gb Ram 5000 Mah Liberado;64.0;64.0
+MLA1123041331;Tucumán;Yerba Buena;18045.77;12;2914.54;93.81;1;0.91;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Alcatel 1 16 Gb  Negro Metálico 1 Gb Ram;16.0;16.0
+MLA1135207985;Buenos Aires;Villa Celina;72999.0;6;12166.5;0.0;1;0.92;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Celular Samsung Galaxy A23 128gb + 4gb Ram 90hz Liberado;4.0;128.0
+MLA1113530015;Buenos Aires;Villa Celina;61999.0;6;10333.17;0.0;1;0.92;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20 Se 256gb 6gb Ram 6,8'' Ips Lcd Liberado Gris;256.0;256.0
+MLA1130743978;Buenos Aires;Villa Celina;69999.0;6;11666.5;0.0;1;0.92;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128gb + 4gb Ram 90hz Liberado;4.0;128.0
+MLA1139808478;Capital Federal;Monte Castro;56999.0;12;9205.81;93.81;1;0.94;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 128gb + 4gb Ram Pls Lcd Negro;4.0;128.0
+MLA1136415597;Buenos Aires;Garin;72999.0;6;12166.5;0.0;1;0.92;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Samsung Galaxy A23 128 Gb Negro 4 Gb Ram;4.0;128.0
+MLA1130605362;Buenos Aires;Villa Celina;122999.0;6;20499.83;0.0;1;0.92;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Celular Samsung Galaxy A53 5g 128gb + 6gb Ram 120hz Liberado;6.0;128.0
+MLA1119854356;Capital Federal;Barracas;97000.0;6;16166.67;0.0;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Blackview Bv6300 Dual Sim 32 Gb  Black 3 Gb Ram;32.0;32.0
+MLA1132737899;Buenos Aires;Villa Celina;42999.0;6;7166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 4gb + 64gb 6.5'' Pls Lcd Liberado;64.0;64.0
+MLA1150526772;Buenos Aires;Villa Celina;57999.0;3;19333.0;0.0;1;0.92;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 128gb + 4gb Ram Oled Liberado;4.0;128.0
+MLA1143800654;Capital Federal;Villa Crespo;60999.0;12;9851.85;93.81;1;0.92;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 6gb 128gb 16mp Negro Cuotas;6.0;128.0
+MLA1135028576;Capital Federal;Monte Castro;46999.0;12;7590.73;93.81;1;0.94;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Moto Motorola G22 Negro 128gb 4gb Ram Lanzamiento;4.0;128.0
+MLA1136923570;Buenos Aires;Garin;60999.0;6;10166.5;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 128gb;4.0;128.0
+MLA1144364001;Capital Federal;Barracas;100000.0;6;16666.67;0.0;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Dual Sim 128 Gb  Black 6 Gb Ram;6.0;128.0
+MLA1139478948;Capital Federal;Monte Castro;59499.0;12;9609.58;93.81;1;0.94;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128gb Negro 6gb Ram;6.0;128.0
+MLA1136896432;Capital Federal;Ciudad autonoma de Buenos Aires;113149.27;12;18274.55;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 128 Gb  Laser Black 6 Gb Ram;256.0;256.0
+MLA1135701033;Capital Federal;Barracas;29999.0;12;4845.09;93.81;1;0.84;Nuevo;Konka;Indus;;;;Celular Liberado Konka Indus 32gb 3gb Android 11 Dual Sim;32.0;32.0
+MLA1117776804;Buenos Aires;Isidro Casanova;90719.0;12;14651.87;93.81;1;0.94;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Xiaomi Redmi Note 10s Dual Sim 128 Gb  Gris Ónix 6 Gb Ram;6.0;128.0
+MLA919281925;Capital Federal;Belgrano;75999.0;6;12666.5;0.0;1;0.96;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Samsung Galaxy A32 128 Gb 4 Gb Ram Azul;4.0;128.0
+MLA1133953470;Buenos Aires;Béccar;44165.5;12;7133.1;93.81;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Negro Al Click Nuevo Gtia;4.0;128.0
+MLA1135694675;Capital Federal;Barracas;35999.0;6;5999.83;0.0;1;0.84;Nuevo;Konka;Indus;;;;Celular Liberado Konka Indus 32gb 3gb Android 11 Dual Sim Ct;32.0;32.0
+MLA1142584958;Capital Federal;C.A.B.A;42999.0;6;7166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64/4gb Black;64.0;64.0
+MLA1149360965;Capital Federal;Villa Urquiza;19999.0;12;3230.01;93.81;1;0.94;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Teléfono Celular Alcatel 1 Ultra 32gb Black ;16.0;16.0
+MLA1134189335;Buenos Aires;Béccar;46850.0;12;7566.67;93.81;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Techcel Nuevo Gtia;4.0;128.0
+MLA1146886900;Córdoba;Córdoba;71564.0;12;11558.18;93.81;1;0.96;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 4gb 64gb 50mpx Dual Sim Blanco;4.0;64.0
+MLA1140212768;Capital Federal;Villa Crespo;46999.0;12;7590.73;93.81;1;0.92;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4gb Ram 128gb 6.5 Negro Oficial;4.0;128.0
+MLA1139579960;Capital Federal;C.A.B.A;60999.0;12;9851.85;93.81;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 64/4gb Black;4.0;128.0
+MLA1158237608;Capital Federal;San Nicolás;142990.0;6;23831.67;0.0;1;0.98;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro (global) Dual Sim 128 Gb  Púrpura Nebula 8 Gb Ram;6.0;128.0
+MLA1136585481;Capital Federal;Monte Castro;34199.05;12;5523.43;93.81;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 32 Gb  Negro 3 Gb Ram;64.0;64.0
+MLA1164297528;Buenos Aires;bella vista;41699.0;12;6734.74;93.81;1;0.96;Nuevo;ZTE;V30 Vita;;;210.0;Zte Blade V30 Vita 128 Gb  Gris 3 Gb Ram;3.0;128.0
+MLA1120529533;Buenos Aires;Villa Celina;122999.0;6;20499.83;0.0;1;0.92;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Samsung Galaxy A52s 5g 6gb + 128gb Nfc 120 Hz Negro;6.0;128.0
+MLA1137273759;Capital Federal;Villa Real;9498.1;12;1534.02;93.81;1;0.93;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Ipro F183 Dual Sim 32 Mb  Negro Boton Sos Caba Adultos Mayor;1.0;1.0
+MLA1134195621;Buenos Aires;San Isidro;46399.0;12;7493.83;93.81;1;0.96;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo Garantía;4.0;128.0
+MLA1143876089;Buenos Aires;Ezeiza;28490.0;12;4601.37;93.81;1;0.95;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Smart Kodak Seren D65lx Negro;64.0;64.0
+MLA1136578970;Buenos Aires;Garin;36999.0;6;6166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 32 Gb  Negro 3 Gb Ram;64.0;64.0
+MLA1135969654;Santa Fe;Rosario;7990.0;12;1290.45;93.81;1;0.99;Nuevo;iPro;A6 Mini;;;;Celular Ipro A6 Mini Liberado Botones Cam. Fm Uso Facil;32.0;32.0
+MLA1160203590;Capital Federal;Monte Castro;31499.0;3;10499.67;0.0;1;0.94;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Samsung Galaxy A03 Core 32gb Light Green;32.0;32.0
+MLA1150809830;Capital Federal;Villa Urquiza;30133.0;12;4866.73;93.81;1;0.88;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 2gb 32gb Verde Menta Sm-a032mlgaaro;32.0;32.0
+MLA1135684320;Capital Federal;Belgrano;60999.0;6;10166.5;0.0;1;0.96;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Samsung Galaxy A13 128 Gb Negro 4 Gb Ram;4.0;128.0
+MLA753948093;Capital Federal;Monte Castro;19999.0;12;3230.01;93.81;1;0.94;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 16gb Libre Quad Core Android Go Garantia;16.0;16.0
+MLA1138427496;Buenos Aires;San Isidro;62999.0;12;10174.86;93.81;1;0.96;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128/6gb Negro Nuevo Garantìa;6.0;128.0
+MLA1133823121;Buenos Aires;Garin;69999.0;6;11666.5;0.0;1;0.92;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Samsung Galaxy A22 5g 128 Gb  Gray 4 Gb Ram;4.0;128.0
+MLA1120843416;Capital Federal;Villa Crespo;22799.0;12;3682.23;93.81;1;0.94;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 1gb Ram 16gb Android 11 Negro;16.0;16.0
+MLA1140937377;Capital Federal;Monte Castro;39899.05;12;6444.03;93.81;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb  Negro 4 Gb Ram;64.0;64.0
+MLA1134158779;Buenos Aires;Béccar;63999.0;6;10666.5;0.0;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo 9 Cuotas S/i;4.0;128.0
+MLA1124211614;Buenos Aires;Gregorio de Laferrere;56990.0;12;9204.36;93.81;1;1.0;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Telefono Celular Tcl 20 Se 256 Gb Gris 6 Gb Ram  Gama Alta;256.0;256.0
+MLA1135118104;Buenos Aires;Villa Lynch;73149.05;12;11814.18;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 (snapdragon) Dual Sim 64 Gb  Gris Grafito 4 Gb Ram;4.0;128.0
+MLA1143501371;Buenos Aires;Garin;55999.0;6;9333.17;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb Blanco;4.0;128.0
+MLA1122891397;Capital Federal;Parque Chas;79999.0;6;13333.17;0.0;1;0.95;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Celular Xiaomi Redmi 10 4gb 64gb Dual Sim 50mpx Blue;4.0;64.0
+MLA1139152260;Buenos Aires;Lomas de Zamora;19599.0;12;3165.4;93.81;1;0.96;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Alcatel 1 Plus 16 Gb Negro 1 Gb Ram ;16.0;16.0
+MLA1140116614;Buenos Aires;Béccar;39590.0;12;6394.11;93.81;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Negro 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1123224516;Capital Federal;Barracas;20999.0;12;3391.51;93.81;1;0.84;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Libre Quantum Yolo 32gb 1gb Ram Dual Sim;32.0;32.0
+MLA1111761026;Capital Federal;Monte Castro;7999.0;12;1291.91;93.81;1;0.94;Nuevo;iPro;A6 Mini;;;;Celular Ipro A6 Mini Azul 32gb Linterna Teclas Ideal Adultos;32.0;32.0
+MLA911420468;Capital Federal;Balvanera;26999.0;12;4360.56;93.81;1;0.9;Nuevo;ZTE;A5 Plus;;;155.0;Celular Zte Blade A5 Plus 32 Gb Negro;32.0;32.0
+MLA1151954005;Buenos Aires;San Isidro;79999.0;3;26666.33;0.0;1;0.96;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Negro Gtia 3 Cuotas S/i;6.0;128.0
+MLA1138459547;Buenos Aires;Béccar;59849.05;12;9666.12;93.81;1;0.97;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128/6 Gb Negro Techcel Nuevo Gtia;6.0;128.0
+MLA1135596480;Buenos Aires;Béccar;65999.0;3;21999.67;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 Negro 4/128 Gb Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1136912302;Buenos Aires;Garin;99999.0;6;16666.5;0.0;1;0.92;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 128gb;6.0;128.0
+MLA1133984747;Buenos Aires;San Isidro;46444.0;12;7501.09;93.81;1;0.96;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Negro Nuevo Garantía Envío;4.0;128.0
+MLA1124616040;Buenos Aires;Béccar;22799.0;12;3682.23;93.81;1;0.97;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black Nuevo Gtia;16.0;16.0
+MLA1154124732;Buenos Aires;Béccar;69799.0;12;11273.12;93.81;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco Al Click Nuevo;6.0;128.0
+MLA1142462456;Capital Federal;Parque Patricios;42999.0;12;6944.7;93.81;1;0.93;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 Octa-core 4gb Ram 64gb 48mp Negro;64.0;64.0
+MLA1140982514;Capital Federal;Monte Castro;99999.0;3;33333.0;0.0;1;0.94;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 128 Gb Awesome Black 6 Gb Ram;6.0;128.0
+MLA1147703763;Capital Federal;Barracas;66149.0;6;11024.83;0.0;1;0.87;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola G52 6+128 Negro;6.0;128.0
+MLA1132184411;Capital Federal;C.A.B.A;25999.0;12;4199.06;93.81;1;0.92;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16/1gb Negro;16.0;16.0
+MLA1138408956;Capital Federal;C.A.B.A;99999.0;6;16666.5;0.0;1;0.92;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 128/6gb Awesome Black;6.0;128.0
+MLA934625013;Capital Federal;C.A.B.A;23525.0;12;3799.48;93.81;1;0.92;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Celular Libre Tcl L7+ 32 Gb Negro 2 Gb Ram;32.0;32.0
+MLA1141326023;Capital Federal;C.A.B.A;69999.0;6;11666.5;0.0;1;0.92;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128/4gb Awesome Gray;4.0;128.0
+MLA1135707105;Buenos Aires;Béccar;64049.0;6;10674.83;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 Negro 4/128 Gb Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1150813420;Buenos Aires;San Martin;41490.0;12;6700.98;93.81;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 Azul 64gb 48mp 4gb Ram 6.5 ;64.0;64.0
+MLA1132401064;Buenos Aires;Garin;47999.0;6;7999.83;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 128 Gb Negro 4 Gb Ram;64.0;64.0
+MLA1134008563;Capital Federal;Parque Patricios;36999.0;12;5975.65;93.81;1;0.93;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 6.5  32gb 3gb Ram 48mp ;64.0;64.0
+MLA1100167245;Capital Federal;San Nicolás;22999.0;12;3714.53;93.81;1;0.93;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Quantum Yolo Celular Libre 32gb/1gb De Ram Red 3g Dual Sim;32.0;32.0
+MLA1143653790;Capital Federal;Monte Castro;28499.05;12;4602.83;93.81;1;0.94;Nuevo;Konka;Indus;;;;Celular Konka Indus Dual Sim 32 Gb  Negro 3 Gb Ram;32.0;32.0
+MLA1130979181;Capital Federal;Agronomía;81319.05;12;13133.7;93.81;1;0.99;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Xiaomi Redmi Note 10s Dual Sim 64 Gb  Gris Ónix 6 Gb Ram;6.0;128.0
+MLA1131929971;Capital Federal;C.A.B.A;48999.0;6;8166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 128/4gb Negro;64.0;64.0
+MLA1144581303;Buenos Aires;Béccar;53950.0;12;8713.37;93.81;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 4/64gb Blanco Al Click Nuevo Gtia;4.0;128.0
+MLA1134146030;Buenos Aires;Béccar;44085.06;12;7120.1;93.81;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Alclick Nuevo Gtia;4.0;128.0
+MLA1142923780;Capital Federal;San Nicolás;34999.0;12;5652.63;93.81;1;0.93;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Kodak Seren D65lx Smartphone Libre 64/2gb Memoria Lcd 6.53 ;64.0;64.0
+MLA1153839842;Buenos Aires;Béccar;77990.0;3;25996.67;0.0;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco 3 Cuotas S/i;6.0;128.0
+MLA1104367543;Capital Federal;San Nicolás;13765.5;12;2223.24;93.81;1;0.95;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Ipro Teclas Grandes Boton Sos Adultos No Videntes;1.0;1.0
+MLA1129910041;Buenos Aires;San Isidro;41799.0;12;6750.89;93.81;1;0.96;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64 Gb Rosa Champagne Nuevo Gtia;64.0;64.0
+MLA1110655719;Capital Federal;C.A.B.A;21999.0;12;3553.02;93.81;1;0.92;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo Dual Sim 32 Gb Negro 1 Gb Ram;32.0;32.0
+MLA1159909082;Capital Federal;Monte Castro;55999.0;12;9044.31;93.81;1;0.94;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 128gb + 4gb Ram Verde Liberado;4.0;128.0
+MLA1143824850;Capital Federal;Villa Urquiza;35468.0;12;5728.38;93.81;1;0.88;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 3gb 32gb Negro Sm-a035mzkaaro;64.0;64.0
+MLA1142849696;Capital Federal;Puerto Madero;64999.0;6;10833.17;0.0;1;0.95;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb Blanco Cuotas;4.0;128.0
+MLA1135103341;Buenos Aires;San Isidro;51584.05;12;8331.25;93.81;1;0.96;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix Nuevo Garantía;4.0;128.0
+MLA1137068970;Buenos Aires;Garin;22799.0;12;3682.23;93.81;1;0.92;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16 Gb Negro 1 Gb Ram;16.0;16.0
+MLA1111271318;Capital Federal;Barracas;100000.0;6;16666.67;0.0;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Celular Industrial Militar Blackview Bv6300 Pro Liberado 4g ;6.0;128.0
+MLA1136694711;Capital Federal;Balvanera;11399.05;12;1841.04;93.81;1;1.0;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Adultos Mayores Teclas Grandes Boton Sos Facil Uso;1.0;1.0
+MLA1132063457;Capital Federal;Villa Urquiza;47775.0;12;7716.06;93.81;1;0.88;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 4gb 128gb Negro Sm-a035mzkfaro;64.0;64.0
+MLA1123218258;Capital Federal;Barracas;26399.0;6;4399.83;0.0;1;0.84;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Libre Quantum Yolo 32gb 1gb Ram Dual Sim Cta;32.0;32.0
+MLA1113923875;Buenos Aires;Béccar;41850.0;12;6759.12;93.81;1;0.97;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64 Gb Rosa Techcel Nuevo Gtia;64.0;64.0
+MLA929700442;Buenos Aires;Villa Celina;19999.0;3;6666.33;0.0;1;0.92;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo Negro;32.0;32.0
+MLA1133504973;Buenos Aires;Campana;53999.0;12;8721.29;93.81;0;0.86;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Liberado Tcl 20se Gris 6,8  256 Gb;256.0;256.0
+MLA1154143997;Buenos Aires;San Isidro;71950.0;12;11620.52;93.81;1;0.96;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco Nuevo Garantía;6.0;128.0
+MLA1135652771;Buenos Aires;Béccar;60999.0;12;9851.85;93.81;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 Negro 4/128 Gb Techcel Nuevo Gtia;4.0;128.0
+MLA1142839176;Córdoba;Córdoba;55999.0;3;18666.33;0.0;1;0.93;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Samsung Galaxy A13 64gb Blanco 4gb Ram;4.0;128.0
+MLA1149353996;Santa Fe;Rosario;99735.0;12;16108.03;93.81;1;0.94;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro (global) Dual Sim 64 Gb  Púrpura Nebula 6 Gb Ram;6.0;128.0
+MLA1114169947;Capital Federal;Monte Castro;41999.0;12;6783.19;93.81;1;0.94;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 64gb Rosa 4gb Libre;64.0;64.0
+MLA929760901;Buenos Aires;Villa Celina;19999.0;3;6666.33;0.0;1;0.92;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo Rojo;32.0;32.0
+MLA1126001841;Capital Federal;Parque Chas;104999.0;12;16958.21;93.81;1;0.95;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Celular Xiaomi Redmi Note 10 Pro 6gb 128gb 108mpx Gray;6.0;128.0
+MLA1131373237;Capital Federal;Puerto Madero;48999.0;12;7913.75;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 128gb 48mpx Negro;64.0;64.0
+MLA1132022616;Buenos Aires;Béccar;73149.05;6;12191.51;0.0;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix 9 Cuotas S/i;4.0;128.0
+MLA1137795089;Buenos Aires;Béccar;26399.0;12;4263.66;93.81;1;0.97;Nuevo;Konka;Indus;;;;Celular Libre Konka Indus 3/32gb Dual Sim Al Click Nuevo;32.0;32.0
+MLA1124616005;Buenos Aires;Béccar;22799.0;12;3682.23;93.81;1;0.97;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black Nuevo Gtia;16.0;16.0
+MLA1144184996;Buenos Aires;Garin;55999.0;6;9333.17;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 64 Gb 4 Gb Ram Celeste;4.0;128.0
+MLA1141262406;Capital Federal;C.A.B.A;69999.0;3;23333.0;0.0;1;0.92;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128/4gb Awesome White;4.0;128.0
+MLA1148387670;Santa Fe;Piamonte;26699.0;12;4312.11;93.81;1;0.94;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Kodak Seren D65lx  64gb /2gb Id Face Huella Lcd 6.53;64.0;64.0
+MLA1138246436;Buenos Aires;San Justo;9498.1;12;1534.02;93.81;1;0.95;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Ipro F183 Dual Sim Teclas Grandes Basico Boton Sos;1.0;1.0
+MLA1128573760;Buenos Aires;Béccar;112950.0;12;18242.37;93.81;1;0.97;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Samsung Galaxy A52s 5g 6/128 Gb Negro Nuevo Garantía;6.0;128.0
+MLA1111283454;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Dual Sim 128 Gb Black 6 Gb Ram;6.0;128.0
+MLA1135388244;Capital Federal;C.A.B.A;36999.0;6;6166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 32/3gb Azul;64.0;64.0
+MLA1137795062;Buenos Aires;Béccar;39999.0;6;6666.5;0.0;1;0.97;Nuevo;Konka;Indus;;;;Celular Libre Konka Indus 3/32gb Dual Sim Nuevo 9 Cuotas S/i;32.0;32.0
+MLA1144606165;Buenos Aires;Béccar;52898.0;12;8543.47;93.81;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 4/64gb Blanco Techcel Nuevo Gtia;4.0;128.0
+MLA1135428961;Capital Federal;C.A.B.A;36999.0;6;6166.5;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 32/3gb Negro;64.0;64.0
+MLA1139564769;Capital Federal;Puerto Madero;36999.0;12;5975.65;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb 48mpx Negro;64.0;64.0
+MLA1143728730;Capital Federal;Balvanera;49489.0;12;7992.89;93.81;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Teléfono A03 128 Gb Negro 4 Gb Ram Liberado;64.0;64.0
+MLA1122839414;Capital Federal;Parque Chas;64999.0;12;10497.88;93.81;1;0.95;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Celular Xiaomi Redmi  10 4gb 64gb 50mpx Dual Sim Gris ;4.0;64.0
+MLA1139054644;Buenos Aires;Béccar;41679.0;12;6731.51;93.81;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Azul 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1121150762;Buenos Aires;Béccar;77358.57;6;12893.1;0.0;1;0.97;Nuevo;ZTE;V30 Vita;;;210.0;Celular Libre Zte Blade V30 Vita 3/128gb Gris 9 Cuotas S/i;3.0;128.0
+MLA1131197906;Buenos Aires;Villa Lynch;166249.05;6;27708.18;0.0;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual 256 Gb Azul 8 Gb Cuotas;256.0;256.0
+MLA1154260283;Capital Federal;Belgrano;55999.0;3;18666.33;0.0;1;0.96;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 64 Gb 4 Gb Ram Celeste;4.0;128.0
+MLA1140969313;Capital Federal;Monte Castro;67999.0;3;22666.33;0.0;1;0.94;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128 Gb  Gray 4 Gb Ram;4.0;128.0
+MLA923228973;Buenos Aires;Béccar;19999.0;12;3230.01;93.81;1;0.97;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Smartphone Quantum Yolo 32/1gb Dual Sim Nuevo Gtia;32.0;32.0
+MLA1124603173;Capital Federal;Puerto Madero;31499.0;12;5087.35;93.81;1;0.92;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Smartphone Samsung Galaxy A03 Core 2gb 32gb Negro;32.0;32.0
+MLA1122878649;Capital Federal;Parque Chas;64999.0;12;10497.88;93.81;1;0.95;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Celular Xiaomi Redmi  10 4gb 64gb Dual Sim 50mpx Blue;4.0;64.0
+MLA1128052132;Buenos Aires;Villa Lynch;115899.05;6;19316.51;0.0;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb 6 Gb Ram Cuotas;4.0;128.0
+MLA1154144029;Buenos Aires;Béccar;77977.0;3;25992.33;0.0;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco 3 Cuotas S/i;6.0;128.0
+MLA935022817;Capital Federal;Barracas;97000.0;6;16166.67;0.0;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Blackview Bv6300 Dual Sim 32 Gb Expandible A 128gb Liberado;32.0;32.0
+MLA1126001971;Capital Federal;Parque Chas;139999.0;6;23333.17;0.0;1;0.95;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Celular Xiaomi Redmi Note 10 Pro 6gb 128gb 108mpx Gray;6.0;128.0
+MLA927115426;Buenos Aires;San Vicente;38499.0;6;6416.5;0.0;1;0.93;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Celular L7+ Tcl Negro;32.0;32.0
+MLA925207199;Capital Federal;Monte Castro;23274.05;6;3879.01;0.0;1;0.94;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo 1gb Ram Negro 32gb Libre Cuotas;32.0;32.0
+MLA1121157067;Buenos Aires;Béccar;42606.0;12;6881.22;93.81;1;0.97;Nuevo;ZTE;V30 Vita;;;210.0;Celular Libre Zte Blade V30 Vita 3/128gb Gris Nuevo Gtia;3.0;128.0
+MLA1136375228;Capital Federal;Belgrano;55999.0;3;18666.33;0.0;1;0.96;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Samsung Galaxy A13 64 Gb Negro 4 Gb Ram;4.0;128.0
+MLA1135713102;Capital Federal;San Nicolás;127990.0;12;20671.45;93.81;1;0.98;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 8/256gb  ;256.0;256.0
+MLA1150578138;Buenos Aires;Béccar;73950.0;12;11943.54;93.81;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Negro Nuevo Garantía;6.0;128.0
+MLA1149578805;Capital Federal;Puerto Madero;29449.05;6;4908.18;0.0;1;0.94;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Smartphone Alcatel 1 Ultra 1gb 32gb Android Cuotas;16.0;16.0
+MLA1122870580;Capital Federal;Parque Chas;79999.0;6;13333.17;0.0;1;0.95;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Celular Xiaomi Redmi 10 4gb 64gb 50mpx Dual Sim Gris ;4.0;64.0
+MLA1159040171;Buenos Aires;Avellaneda;68499.0;6;11416.5;0.0;1;0.93;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20se 6gb/256gb Gris T671e1-falcar11;256.0;256.0
+MLA1138257262;Capital Federal;Parque Chas;149999.0;6;24999.83;0.0;1;0.95;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Celular Xiaomi Redmi Note 10 Pro 6gb 128gb 108mpx Blue;6.0;128.0
+MLA1116816922;Santa Fe;Rosario;74000.0;12;11951.62;93.81;1;0.96;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Telefono Celular Samsung Galaxy A32 Negro - Sm-a325m  ;4.0;128.0
+MLA1143699398;Capital Federal;Monte Castro;35499.0;6;5916.5;0.0;1;0.94;Nuevo;Konka;Indus;;;;Celular Konka Indus Dual Sim 32 Gb  Negro 3 Gb Ram;32.0;32.0
+MLA1127557084;Buenos Aires;Villa Lynch;85499.05;12;13808.81;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb 6 Gb Ram;4.0;128.0
+MLA1139801915;Buenos Aires;Béccar;64999.0;12;10497.88;93.81;1;0.97;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g Gris 4/128 Gb Nuevo Garantía;4.0;128.0
+MLA1153992112;Buenos Aires;Béccar;89999.0;6;14999.83;0.0;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco Nuevo Cuotas S/i;6.0;128.0
+MLA1113930268;Buenos Aires;Béccar;58999.0;6;9833.17;0.0;1;0.97;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64 Gb Rosa Al Click 9 Cuotas S/i;64.0;64.0
+MLA927144253;Buenos Aires;San Vicente;110599.0;6;18433.17;0.0;1;0.93;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Galaxy A32 Negro Sm-s325mzkmaro;4.0;128.0
+MLA1141479047;Capital Federal;Puerto Madero;69349.05;6;11558.18;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb Negro Cuotas;4.0;128.0
+MLA1134807524;Buenos Aires;Villa Lynch;106399.05;6;17733.18;0.0;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb Gris 4 Gb Cuotas;4.0;128.0
+MLA1140212815;Buenos Aires;Béccar;86899.0;12;14034.91;93.81;1;0.97;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 6/128 Gb Negro Techcel Nuevo;6.0;128.0
+MLA1124764063;Córdoba;Córdoba;31499.0;3;10499.67;0.0;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Samsung Galaxy A03 Core 32 Gb;32.0;32.0
+MLA1135850756;Capital Federal;Villa Crespo;46999.0;12;7590.73;93.81;1;0.92;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4gb Ram 128gb 6.5 Celeste Oficial;4.0;128.0
+MLA1139571270;Capital Federal;Puerto Madero;50999.0;6;8499.83;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb Negro Cuotas;64.0;64.0
+MLA1128063290;Buenos Aires;Villa Lynch;85499.05;12;13808.81;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb Gris Grafito 6 Gb;4.0;128.0
+MLA1147663961;Buenos Aires;Béccar;26899.0;12;4344.41;93.81;1;0.97;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Libre Kodak Seren D65lx 64/2gb Negro Nuevo Al Click;64.0;64.0
+MLA1138409034;Buenos Aires;Béccar;85499.05;6;14249.84;0.0;1;0.97;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128/6gb Negro Alclick 9 Cuotas S/i;6.0;128.0
+MLA902221158;Capital Federal;Barracas;85000.0;12;13728.21;93.81;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Celular Industrial Militar Blackview Bv6300;32.0;32.0
+MLA1132618291;Buenos Aires;Gregorio de Laferrere;74990.0;6;12498.33;0.0;1;1.0;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Telefono Celular Tcl 20se 256 Gb 6gb Ram Gris Gama Alta Cuot;256.0;256.0
+MLA1136538997;Capital Federal;Monte Castro;112999.0;12;18250.28;93.81;1;0.94;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Samsung Galaxy A52s 5g 128 Gb Black 6 Gb Ram;6.0;128.0
+MLA1132089731;Capital Federal;Monte Castro;55999.0;12;9044.31;93.81;1;0.94;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 128 Gb Negro Ónix 4 Gb Ram;4.0;128.0
+MLA1140422850;Capital Federal;Puerto Madero;71279.0;6;11879.83;0.0;1;0.95;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb Negro Cuotas;4.0;128.0
+MLA930099795;Capital Federal;Barracas;20999.0;12;3391.51;93.81;1;0.96;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo 1gb Ram 32gb Dualsim Rojo;32.0;32.0
+MLA1140395607;Buenos Aires;Villa Lynch;166249.05;6;27708.18;0.0;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g 256 Gb Yellow 8 Gb Cuotas;256.0;256.0
+MLA1131405645;Capital Federal;Puerto Madero;62899.0;6;10483.17;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 128gb Negro Cuotas;64.0;64.0
+MLA1139591475;Capital Federal;Puerto Madero;36999.0;12;5975.65;93.81;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb 48mpx Negro;64.0;64.0
+MLA1122997423;Tucumán;Yerba Buena;18045.77;12;2914.54;93.81;1;0.91;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16 Gb Negro Metálico 1 Gb Ram;16.0;16.0
+MLA1138726589;Capital Federal;Balvanera;27999.0;12;4522.07;93.81;0;0.9;Nuevo;Konka;Indus;;;;Celular Konka Indus 32 Gb Negro;32.0;32.0
+MLA913370888;Chaco;Presidencia Roque Sáenz Peña;8549.05;12;1380.74;93.81;1;1.0;Nuevo;iPro;A6 Mini;;;;Celular Ipro A6 Liberado Teclas Radio Linterna Adultos Facil;32.0;32.0
+MLA1104385716;Capital Federal;San Nicolás;13765.5;12;2223.24;93.81;1;0.95;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Ipro F183 Llamadas Boton Sos Ideal Para Mayores;1.0;1.0
+MLA1138175334;Buenos Aires;Ituzaingó;29990.0;12;4843.63;93.81;1;0.96;Nuevo;Konka;Indus;;;;Celular Libre Konka Indus 3/32gb Dual Sim Nuevo Garantía;32.0;32.0
+MLA931520696;Buenos Aires;Avellaneda;34499.0;6;5749.83;0.0;1;0.93;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Celular Tcl 5102b-falcar11 L7+ Pantalla 5.5 32 Gb  2 Gb   ;32.0;32.0
+MLA1104366812;Buenos Aires;Béccar;32999.0;12;5329.61;93.81;1;0.97;Nuevo;ZTE;A5 Plus;;;155.0;Celular Libre Zte Blade A5 Plus 2/32 Gb Negro Nuevo Gtia;32.0;32.0
+MLA902221431;Capital Federal;Barracas;85000.0;12;13728.21;93.81;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Blackview Bv6300 Anti Polvo - Libre De Fabrica Resistente;32.0;32.0
+MLA1140110473;Buenos Aires;San Isidro;42999.0;12;6944.7;93.81;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Negro 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1136544969;Capital Federal;San Nicolás;93990.0;6;15665.0;0.0;1;0.98;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 Dual Sim 4/128 Gb  Sea Blue Cuotas;4.0;64.0
+MLA1131393955;Buenos Aires;Garin;122999.0;12;19865.36;93.81;1;0.92;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Celular Samsung Galaxy A53 5g 128gb Black;6.0;128.0
+MLA1138925241;Capital Federal;Palermo;17999.0;12;2906.99;93.81;1;0.9;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16 Gb Almacenamiento 1 Gb Ram Negro;16.0;16.0
+MLA1153530535;Buenos Aires;San Isidro;55555.0;12;8972.6;93.81;1;0.96;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 4/128gb Verde Nuevo Garantía ;4.0;128.0
+MLA1153550523;Capital Federal;Villa Urquiza;28049.0;6;4674.83;0.0;1;0.91;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Telefono Celular Alcatel 1 Ultra 32gb Black ;16.0;16.0
+MLA1134158483;Buenos Aires;Béccar;53999.0;3;17999.67;0.0;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo 3 Cuotas S/i;4.0;128.0
+MLA906480982;Buenos Aires;Gonzalez Catan;27590.0;12;4456.01;93.81;1;0.95;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Celular Smartphone Tcl L7+ Quad Core 32 Gb +2 Gb Ram 8mpx;32.0;32.0
+MLA1116337778;Capital Federal;Parque Chas;119999.0;6;19999.83;0.0;1;0.95;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Celular Xiaomi Redmi Note 10s 6gb 128gb 64mpx 6,43'' White;6.0;128.0
+MLA1140403638;Capital Federal;Puerto Madero;42999.0;12;6944.7;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb 48mpx Negro;64.0;64.0
+MLA1126438666;Capital Federal;Parque Patricios;36999.0;12;5975.65;93.81;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Samsung Galaxy A03 Core 2gb 32gb Negro Sma032mzkaaro;32.0;32.0
+MLA1143700241;Capital Federal;Puerto Madero;50349.05;3;16783.02;0.0;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb 48m Negro X3c;64.0;64.0
+MLA1138224880;Capital Federal;Parque Chas;109999.0;12;17765.76;93.81;1;0.95;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Celular Xiaomi Redmi Note 10 Pro 6gb 128gb 108mpx Blue;6.0;128.0
+MLA1139854157;Buenos Aires;San Isidro;68990.0;12;11142.46;93.81;1;0.96;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g Gris 4/128 Gb Nuevo Garantía;4.0;128.0
+MLA1135652963;Buenos Aires;Béccar;60999.0;12;9851.85;93.81;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 Negro 4/128gb Al Click Nuevo Gtia;4.0;128.0
+MLA1146791432;Buenos Aires;Berazategui;28888.0;12;4665.65;93.81;1;0.95;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Kodak Seren D65lx Octa Core 64gb /2gb Id Face Huella;64.0;64.0
+MLA1134206658;Buenos Aires;San Isidro;63999.0;6;10666.5;0.0;1;0.96;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo 9 Cuotas S/i;4.0;128.0
+MLA930484836;Buenos Aires;Junín;31069.0;12;5017.9;93.81;1;0.91;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Tcl L7+ 32 Gb Negro 2 Gb Ram;32.0;32.0
+MLA1139032147;Buenos Aires;San Isidro;42999.0;12;6944.7;93.81;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Azul 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1153512874;Capital Federal;Puerto Madero;31499.0;12;5087.35;93.81;1;0.94;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Smartphone Samsung Galaxy A03 Core 2gb 32gb 8mp Mint;32.0;32.0
+MLA1135984448;Capital Federal;Villa Crespo;47995.0;12;7751.59;93.81;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 128 Gb Negro 4 Gb Ram Octa Core;64.0;64.0
+MLA1139013850;Buenos Aires;Béccar;41990.0;12;6781.73;93.81;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Azul 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1160006173;Capital Federal;Monte Castro;66999.0;6;11166.5;0.0;1;0.94;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 128gb + 4gb Ram Verde Liberado;4.0;128.0
+MLA1123602611;Buenos Aires;Lomas de Zamora;74189.0;6;12364.83;0.0;1;0.93;Nuevo;ZTE;V30 Vita;;;210.0;Celular Libre Zte Blade V30 Vita 3/128gb Gris;3.0;128.0
+MLA1143688166;Buenos Aires;Munro;42999.0;12;6944.7;93.81;1;0.93;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 64 Gb  Azul 4 Gb Ram;64.0;64.0
+MLA1116344823;Capital Federal;Parque Chas;119999.0;6;19999.83;0.0;1;0.95;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Celular Xiaomi Redmi Note 10s 6gb 128gb 64mpx 6,43'' Blue;6.0;128.0
+MLA1117204665;Capital Federal;Monte Castro;9799.0;12;1582.62;93.81;1;0.94;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Ipro F183 Dual Sim 32 Mb Negro 32 Mb Ram Libre ;1.0;1.0
+MLA1139027341;Buenos Aires;Quilmes;27073.1;6;4512.18;0.0;1;0.95;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Alcatel 1 Plus 16 Gb  Negro 1 Gb Ram;16.0;16.0
+MLA1153524445;Buenos Aires;Béccar;55555.0;12;8972.6;93.81;1;0.97;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 4/128gb Rosa Nuevo Garantía ;4.0;128.0
+MLA1148414881;Capital Federal;Villa Crespo;28990.0;12;4682.13;93.81;1;0.92;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Kodak Seren D65lx 2gb 64gb 6,5 Face Garantia Oficial;64.0;64.0
+MLA1113930235;Buenos Aires;Béccar;41799.0;12;6750.89;93.81;1;0.97;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64 Gb Rosa Al Click Nuevo Gtia;64.0;64.0
+MLA1111297424;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Celular Industrial Militar Blackview Bv6300 Pro;6.0;128.0
+MLA1136416748;Capital Federal;Balvanera;60999.0;12;9851.85;93.81;1;0.9;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 128gb Negro;4.0;128.0
+MLA1109020990;Buenos Aires;San Vicente;110599.0;6;18433.17;0.0;1;0.93;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Galaxy A32 Azul Sm-s325mzbmaro;4.0;128.0
+MLA1143886674;Capital Federal;Villa Urquiza;35834.0;12;5787.49;93.81;1;0.88;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 3gb 32gb Azul Sm-a035mzbaaro;64.0;64.0
+MLA1148925151;Buenos Aires;Lanus Este;29995.0;12;4844.44;93.81;1;0.98;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Kodak Celular Seren D65lx Liberado 64/2gb Memoria Lcd 6.53;64.0;64.0
+MLA1111331229;Capital Federal;Barracas;100000.0;6;16666.67;0.0;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Anti Golpe Libre De Fabrica Resistente;6.0;128.0
+MLA902221729;Capital Federal;Barracas;97000.0;6;16166.67;0.0;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Celular Industrial Militar Blackview Bv6300 - Robusto;32.0;32.0
+MLA1124627134;Buenos Aires;Béccar;22799.0;3;7599.67;0.0;1;0.97;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black 3 Cuotas S/i;16.0;16.0
+MLA1142698021;Capital Federal;Villa Urquiza;69737.0;12;11263.11;93.81;1;0.88;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Samsung Galaxy A23 128gb + 4gb Ram Black Sm-a235mzkearo;4.0;128.0
+MLA1135175044;Capital Federal;Parque Patricios;99999.0;12;16150.67;93.81;1;0.93;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g Octa Core 128gb 6gb Ram Fhd+;6.0;128.0
+MLA1136034497;Capital Federal;Puerto Madero;79799.05;6;13299.84;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 128gb Negro Cuotas;4.0;128.0
+MLA1132796904;Buenos Aires;Campana;47999.0;12;7752.24;93.81;1;0.86;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Liberado Samsung A03 Negro 6,5  128 Gb;64.0;64.0
+MLA1151914904;Buenos Aires;San Isidro;73799.0;12;11919.15;93.81;1;0.96;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Negro Nuevo Garantía;6.0;128.0
+MLA1144801280;Buenos Aires;San Isidro;22499.0;12;3633.78;93.81;1;0.96;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black Nuevo Gtia;16.0;16.0
+MLA1137088931;Buenos Aires;Gonzalez Catan;57990.0;12;9365.87;93.81;1;0.95;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20se 256/6 Gb Ram 48 Mp Triple Camara 6.82 ;256.0;256.0
+MLA1153827128;Buenos Aires;Béccar;73599.0;12;11886.85;93.81;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Blanco Nuevo Garantía;6.0;128.0
+MLA1135687483;Capital Federal;San Nicolás;108990.0;6;18165.0;0.0;1;0.98;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 (snapdragon) Dual Sim 6/128gb Cuotas;4.0;128.0
+MLA1134558243;Buenos Aires;Villa Lynch;132999.05;12;21480.45;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual 256 Gb Laser Black 8 Gb;256.0;256.0
+MLA1140427195;Buenos Aires;Villa Lynch;87399.05;6;14566.51;0.0;1;0.93;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 Dual Sim 64 Gb Pebble White 4 Gb Ram Cuotas;4.0;64.0
+MLA1135058935;Capital Federal;Monte Castro;22999.0;12;3714.53;93.81;1;0.94;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16 Gb  Negro 1 Gb Ram;16.0;16.0
+MLA1121940782;Buenos Aires;Ramos Mejía;139999.0;6;23333.17;0.0;1;1.0;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro Dual Sim 8gb - 128gb - Celufree;6.0;128.0
+MLA1128967925;Buenos Aires;Béccar;72999.0;6;12166.5;0.0;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 128/4gb Dorado Nuevo 9 Cuotas S/i;4.0;128.0
+MLA926792552;Buenos Aires;Béccar;25899.0;6;4316.5;0.0;1;0.97;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Smartphone Quantum Yolo 32/1gb Dual Sim Gtia Cuotas;32.0;32.0
+MLA1156565461;Buenos Aires;Campana;26699.0;12;4312.11;93.81;1;0.86;Nuevo;ZTE;A5 Plus;;;155.0;Celular Liberado Zte Blade A5 Plus 4g 6p Android R Go;32.0;32.0
+MLA1149646599;Capital Federal;Villa Ortúzar;118999.0;12;19219.33;93.81;1;0.93;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Celular Samsung Galaxy A53 5g 128 Gb + 6 Gb De Ram;6.0;128.0
+MLA1111271043;Capital Federal;Barracas;100000.0;6;16666.67;0.0;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Celular Industrial Militar Robusto Blackview Bv6300 Pro 4g;6.0;128.0
+MLA1121749867;Capital Federal;Caballito;56598.7;6;9433.12;0.0;1;0.95;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Liberado Motorola E40 Gris Acero 64gb 4gb Ram Cuotas;64.0;64.0
+MLA1160505588;Capital Federal;Monserrat;31499.0;12;5087.35;93.81;1;0.95;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32 Gb  Copper 2 Gb Ram+ Funda Regalo;32.0;32.0
+MLA1123952323;Buenos Aires;Tortuguitas;75999.0;12;12274.47;93.81;1;0.98;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Samsung Galaxy A32 128 Gb Blue 4 Gb Ram;4.0;128.0
+MLA1142002597;Buenos Aires;Campana;42999.0;12;6944.7;93.81;1;0.86;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Liberado Samsung A03 6,5  Hd 4gb64gb Azul;64.0;64.0
+MLA1135103665;Buenos Aires;San Isidro;73149.05;6;12191.51;0.0;1;0.96;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix 9 Cuotas S/i;4.0;128.0
+MLA1123985139;Misiones;Posadas;8100.0;12;1308.22;93.81;1;0.93;Nuevo;iPro;A6 Mini;;;;Celular Ipro A6 Mini Rojo A32gb Linterna Adultos Mayores ;32.0;32.0
+MLA932987312;Córdoba;Córdoba;75999.0;3;25333.0;0.0;1;0.93;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram;4.0;128.0
+MLA1140097856;Buenos Aires;Béccar;45149.0;6;7524.83;0.0;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Negro 4gb Ram 3 Cuotas S/i;64.0;64.0
+MLA922797656;Capital Federal;Barracas;20999.0;12;3391.51;93.81;1;0.96;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo 1gb Ram 32gb Dualsim Incluye Funda;32.0;32.0
+MLA1144190984;Capital Federal;Parque Patricios;69999.0;12;11305.42;93.81;1;0.93;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 Xt2221-2 6gb Ram 128gb Usb C;6.0;128.0
+MLA1139231807;Capital Federal;San Nicolás;93990.0;6;15665.0;0.0;1;0.98;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 Dual Sim 4/128gb  Carbon Gray Cuotas;4.0;64.0
+MLA1135706612;Capital Federal;San Nicolás;159990.0;6;26665.0;0.0;1;0.98;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 8/256gb Cuotas;256.0;256.0
+MLA1134202238;Buenos Aires;Béccar;53999.0;3;17999.67;0.0;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1144576124;Buenos Aires;Béccar;59999.0;3;19999.67;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 4/64gb Blanco Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1137795048;Buenos Aires;Béccar;35999.0;3;11999.67;0.0;1;0.97;Nuevo;Konka;Indus;;;;Celular Libre Konka Indus 3/32gb Dual Sim Nuevo 3 Cuotas S/i;32.0;32.0
+MLA1133842523;Buenos Aires;Garin;69999.0;6;11666.5;0.0;1;0.92;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Samsung Galaxy A22 5g 128 Gb  White 4 Gb Ram;4.0;128.0
+MLA1128739015;Capital Federal;Puerto Madero;122999.0;12;19865.36;93.81;1;0.92;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Smartphone 5g Samsung Galaxy A52s 6gb 128g 64m Negro;6.0;128.0
+MLA1134840010;Buenos Aires;Villa Lynch;80749.05;12;13041.64;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb  Azul 4 Gb Ram Cuotas;4.0;128.0
+MLA1103063831;Misiones;Posadas;10500.0;12;1695.84;93.81;1;0.93;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Teclas Ipro F183 Gsm Dual Sim. Botón S.o.s Adultos ;1.0;1.0
+MLA1110704550;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Dual Sim 128 Gb Lte - 6 Gb Ram;6.0;128.0
+MLA1140091721;Buenos Aires;Béccar;41990.0;12;6781.73;93.81;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Negro 4gb Ram Nuevo Gtia;64.0;64.0
+MLA1108778053;Capital Federal;Monte Castro;21999.0;12;3553.02;93.81;1;0.94;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo Dual Sim 32 Gb Rojo 1 Gb Ram;32.0;32.0
+MLA935974404;Capital Federal;Puerto Madero;86999.0;3;28999.67;0.0;1;0.94;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Smartphone Samsung Galaxy A32 4gb 128gb Blanco Promo;4.0;128.0
+MLA1141392897;Capital Federal;Puerto Madero;42999.0;12;6944.7;93.81;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb 48mpx Negro;64.0;64.0
+MLA1141472621;Capital Federal;Puerto Madero;55999.0;12;9044.31;93.81;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb 50mpx Negro;4.0;128.0
+MLA1160907768;Buenos Aires;San Martin;31490.0;12;5085.9;93.81;1;0.97;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Samsung Galaxy A03 Core Light Green 32gb 2gb Ram;32.0;32.0
+MLA1149501060;Capital Federal;Villa Ortúzar;75899.0;12;12258.32;93.81;1;0.93;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Samsung Galaxy A32 128 Gb + 4gb De Ram;4.0;128.0
+MLA1134107099;Buenos Aires;Villa Lynch;47499.05;6;7916.51;0.0;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32 Gb  Blue 2 Gb Ram Cuotas;32.0;32.0
+MLA1125622483;Buenos Aires;Villa Lynch;80749.05;12;13041.64;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 128 Gb Gris Grafito 4 Gb Ram;4.0;128.0
+MLA1111289458;Capital Federal;Villa Crespo;21999.0;12;3553.02;93.81;1;0.95;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Quantum Yolo Negro 3g - 5  - 32 Gb - 1 Gb Ram Dual Sim;32.0;32.0
+MLA1132028132;Capital Federal;Parque Patricios;48999.0;12;7913.75;93.81;1;0.93;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 Octa-core 6.5 4gb Ram 128gb 48mp;64.0;64.0
+MLA1138459654;Buenos Aires;Béccar;59849.05;12;9666.12;93.81;1;0.97;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128/6gb Negro Al Click Nuevo Gtia;6.0;128.0
+MLA1142297602;Buenos Aires;Munro;122999.0;3;40999.67;0.0;1;0.93;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Samsung Galaxy A53 5g  128 Gb  Negro 6 Gb Ram;6.0;128.0
+MLA1132010951;Buenos Aires;Béccar;54399.0;12;8785.89;93.81;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0; Celular Motorola Moto G41 4/128gb Negro Ónix Nuevo Garantía;4.0;128.0
+MLA919232672;Buenos Aires;Garin;75999.0;6;12666.5;0.0;1;0.92;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram;4.0;128.0
+MLA1128677291;Santa Fe;Laguna Paiva;9499.05;12;1534.18;93.81;1;0.99;Nuevo;iPro;A6 Mini;;;;Teléfono Celular Ipro A6mini Teclado Dual Fm Libre Linterna;32.0;32.0
+MLA1128948323;Buenos Aires;Villa Lynch;148199.05;6;24699.84;0.0;1;0.93;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro (global) 128 Gb Azul 8 Gb Cuotas;6.0;128.0
+MLA931514345;Buenos Aires;Avellaneda;27799.0;12;4489.77;93.81;1;0.93;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Celular Tcl 5102b-falcar11 L7+ Pantalla 5.5 32 Gb  2 Gb   ;32.0;32.0
+MLA1128955205;Buenos Aires;Béccar;55999.0;12;9044.31;93.81;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 128/4gb Dorado Al Click Nuevo Gtia;4.0;128.0
+MLA1139584089;Capital Federal;Puerto Madero;42999.0;12;6944.7;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone 6,5 Samsung Galaxy A03 4gb 64gb 48mp Azul;64.0;64.0
+MLA1142535525;Misiones;Posadas;94999.0;6;15833.17;0.0;1;0.0;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Azul Ocaso 128gb ;4.0;128.0
+MLA1151077103;Buenos Aires;Berazategui;39688.0;12;6409.94;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64gb + 4gb Ram Liberado Negro;64.0;64.0
+MLA1104336147;Buenos Aires;Béccar;45999.0;6;7666.5;0.0;1;0.97;Nuevo;ZTE;A5 Plus;;;155.0;Celular Libre Zte Blade A5 Plus 2/32 Gb Negro 9 Cuotas S/i;32.0;32.0
+MLA1139666784;Capital Federal;Puerto Madero;45599.05;6;7599.84;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb Negro Cuotas;64.0;64.0
+MLA1147022108;Buenos Aires;San Vicente;63699.0;12;10287.92;93.81;1;0.93;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 Sm-a135m 128gb Negro;4.0;128.0
+MLA1148735996;Capital Federal;Villa Crespo;19990.0;12;3228.55;93.81;1;0.95;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Quantum Yolo Celular Libre 32gb/1gb De Ram Red 3g Dual Sim;32.0;32.0
+MLA1131993253;Buenos Aires;Béccar;62999.0;3;20999.67;0.0;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix 3 Cuotas S/i;4.0;128.0
+MLA1131178730;Buenos Aires;Villa Lynch;132999.05;12;21480.45;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 256 Gb Azul 8 Gb;256.0;256.0
+MLA1162393540;Capital Federal;Barracas;31999.0;3;10666.33;0.0;1;0.89;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celulares Liberados Alcatel 1 Ultra 32gb Black;16.0;16.0
+MLA1134720877;Capital Federal;Puerto Madero;46549.05;6;7758.18;0.0;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb Azul Cuotas;64.0;64.0
+MLA1116252384;Capital Federal;Parque Chas;99999.0;12;16150.67;93.81;1;0.95;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Celular Xiaomi Redmi Note 10s 6gb 128gb 64mpx 6,43'' Grey;6.0;128.0
+MLA1128954595;Buenos Aires;Villa Lynch;148199.05;6;24699.84;0.0;1;0.93;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro Global Sim 128 Gb Gris 8 Gb Cuotas;6.0;128.0
+MLA1135110228;Buenos Aires;San Isidro;63649.05;3;21216.35;0.0;1;0.96;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix 3 Cuotas S/i;4.0;128.0
+MLA927139560;Buenos Aires;San Vicente;37799.0;6;6299.83;0.0;1;0.93;Nuevo;ZTE;A5 Plus;;;155.0;Celular Liberado Zte A5 Plus Negro Libre;32.0;32.0
+MLA921528281;Buenos Aires;Garin;75999.0;6;12666.5;0.0;1;0.92;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Samsung Galaxy A32 128 Gb Awesome Blue 4 Gb Ram;4.0;128.0
+MLA1151901939;Capital Federal;Puerto Madero;20999.0;12;3391.51;93.81;1;0.95;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Smartphone Alcatel 1 Ultra 1gb 32gb Android 11 8mpx;16.0;16.0
+MLA901836465;Capital Federal;Barracas;85000.0;12;13728.21;93.81;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Celular Industrial Militar Robusto Blackview Bv6300 4g Lte;32.0;32.0
+MLA1111311740;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Celular Industrial Militar Blackview Bv6300 Pro - Robusto;6.0;128.0
+MLA913552581;Buenos Aires;San Vicente;26999.0;12;4360.56;93.81;1;0.93;Nuevo;ZTE;A5 Plus;;;155.0;Celular Liberado Zte A5 Plus Negro Libre;32.0;32.0
+MLA1138440202;Buenos Aires;Béccar;67950.0;3;22650.0;0.0;1;0.97;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Motorola Moto G52 128/6gb Negro Techcel 3 Cuotas S/i;6.0;128.0
+MLA1140371283;Buenos Aires;Villa Lynch;70299.05;12;11353.88;93.81;1;0.93;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 Dual Sim 64 Gb Pebble White 4 Gb Ram;4.0;64.0
+MLA1143700249;Capital Federal;Puerto Madero;42999.0;12;6944.7;93.81;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb 48mpx Negro;64.0;64.0
+MLA1144160565;Capital Federal;San Nicolás;108990.0;6;18165.0;0.0;1;0.98;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 Dual Sim 6/128gb Start Blue Cuotas;4.0;128.0
+MLA916536219;Buenos Aires;Lomas de Zamora;44789.0;6;7464.83;0.0;1;0.93;Nuevo;ZTE;A5 Plus;;;155.0;Celular Zte A5 Plus 32 Gb Negro 2 Gb Ram La Juana;32.0;32.0
+MLA1140103109;Buenos Aires;Villa Lynch;151999.05;6;25333.18;0.0;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual 128 Gb Negro 6gb Cuotas;256.0;256.0
+MLA1147320639;Buenos Aires;Avellaneda;43919.0;6;7319.83;0.0;1;0.93;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Kodak Smart Seren D65lx  6.3 /2gb/64gb;64.0;64.0
+MLA1132022659;Buenos Aires;Béccar;73149.05;6;12191.51;0.0;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix 9 Cuotas S/i;4.0;128.0
+MLA1144600091;Buenos Aires;Béccar;59990.0;3;19996.67;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 4/64gb Blanco Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1161274554;Buenos Aires;Berazategui;117898.0;12;19041.51;93.81;1;0.95;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Celular Samsung Galaxy A53 5g 128gb + 6gb Ram Liberado;6.0;128.0
+MLA1150409558;Capital Federal;Monte Castro;7999.0;12;1291.91;93.81;1;0.93;Nuevo;iPro;A6 Mini;;;;Celular A6 Mini Ipro Liberado Uso Facil;32.0;32.0
+MLA1129842448;Buenos Aires;San Isidro;58999.0;6;9833.17;0.0;1;0.96;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64gb Rosa Champagne 9 Cuotas S/i;64.0;64.0
+MLA1144940820;Santa Fe;Rosario;56199.0;12;9076.61;93.81;1;0.9;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Liberado Moto G22 6.5  4gb 128gb 3cam 50mpx Azul;4.0;128.0
+MLA1142848577;Capital Federal;La Boca;35999.0;12;5814.14;93.81;1;0.98;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 32 Gb  Azul 3 Gb Ram Cuotas;64.0;64.0
+MLA1140086900;Buenos Aires;Campana;72999.0;12;11789.95;93.81;0;0.86;Nuevo;Motorola;G52;Adreno 610;Snapdragon 680;169.0;Celular Liberado Motorola G52 Xt2221-2 4g 6.6  Negro;6.0;128.0
+MLA1139013827;Buenos Aires;Béccar;45599.0;3;15199.67;0.0;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Azul 4gb Ram 3 Cuotas S/i;64.0;64.0
+MLA1144579954;Buenos Aires;Campana;36999.0;12;5975.65;93.81;1;0.86;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Liberado Samsung A03 6,5  Hd 3gb32gb Negro;64.0;64.0
+MLA1141951034;Capital Federal;Parque Patricios;42999.0;12;6944.7;93.81;1;0.93;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 Octa-core 4gb Ram 64gb 48mp Azul;64.0;64.0
+MLA920687220;Buenos Aires;Béccar;75999.0;12;12274.47;93.81;1;0.97;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Samsung Galaxy A32 Azul 128/4 Gb Nortec Nuevo Gtia;4.0;128.0
+MLA1140422844;Capital Federal;Puerto Madero;56499.0;6;9416.5;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb Negro Cuotas;64.0;64.0
+MLA1137944308;Capital Federal;La Boca;72900.0;6;12150.0;0.0;1;0.98;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Samsung Galaxy A13 128 Gb Negro 4 Gb Ram  ;4.0;128.0
+MLA1156515982;Buenos Aires;Campana;43999.0;12;7106.21;93.81;1;0.86;Nuevo;ZTE;V30 Vita;;;210.0;Celular Liberado Zte Blade V30 Vita Gris 6,8  128 Gb;3.0;128.0
+MLA1140115946;Buenos Aires;Villa Lynch;118274.05;12;19102.24;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual Sim 128 Gb Negro 6 Gb;256.0;256.0
+MLA1129672789;Capital Federal;Puerto Madero;158999.0;3;52999.67;0.0;1;0.95;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Smartphone 5g Samsung Galaxy A52s 6gb 128g Negro X3c;6.0;128.0
+MLA1142364010;Capital Federal;Villa Devoto;55544.0;12;8970.82;93.81;1;0.93;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Liberado Motorola G22 Xt2231-5 Negro 128gb Octa Core;4.0;128.0
+MLA902222481;Capital Federal;Barracas;97000.0;6;16166.67;0.0;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Celular Industrial Militar Blackview Bv6300 - Liberado - 4g ;32.0;32.0
+MLA1134188005;Buenos Aires;Villa Lynch;47499.05;6;7916.51;0.0;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32 Gb  Negro 2 Gb Ram Cuotas;32.0;32.0
+MLA1153570184;Capital Federal;Puerto Madero;36999.0;12;5975.65;93.81;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone 6,5 Samsung Galaxy A03 3gb 32gb 48mp Azul;64.0;64.0
+MLA1124610037;Buenos Aires;Béccar;31598.57;6;5266.43;0.0;1;0.97;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black 9 Cuotas S/i;16.0;16.0
+MLA1135686689;Capital Federal;Puerto Madero;45999.0;3;15333.0;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb 48mp Azul X3c;64.0;64.0
+MLA1142446192;Córdoba;Córdoba;55999.0;3;18666.33;0.0;1;0.93;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0; Samsung Galaxy A13 64gb Celeste;4.0;128.0
+MLA916541269;Buenos Aires;Lomas de Zamora;37489.0;6;6248.17;0.0;1;0.93;Nuevo;ZTE;A5 Plus;;;155.0;Celular Zte A5 Plus 32 Gb Negro 2 Gb Ram La Juana;32.0;32.0
+MLA1141655977;Capital Federal;C.A.B.A;72999.0;6;12166.5;0.0;1;0.92;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Celular Samsung Galaxy A23 128/4gb Light Blue;4.0;128.0
+MLA1130978283;Buenos Aires;Gonzalez Catan;19990.0;12;3228.55;93.81;1;0.95;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Alcatel 1 Plus 16 Gb 1 Gb Ram Negro ;16.0;16.0
+MLA1139822252;Buenos Aires;Béccar;79999.0;6;13333.17;0.0;1;0.97;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g Gris 4/128 Gb 3 Cuotas S/i;4.0;128.0
+MLA1144569860;Buenos Aires;Béccar;71999.0;6;11999.83;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 4/64gb Blanco Nuevo 9 Cuotas S/i;4.0;128.0
+MLA1150606830;Buenos Aires;Béccar;63999.0;3;21333.0;0.0;1;0.97;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 4/128gb Verde Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1119434568;Capital Federal;Villa Crespo;43033.0;12;6950.19;93.81;1;0.94;Nuevo;ZTE;V30 Vita;;;210.0;Celular Zte Blade V30 Vita 3gb Ram 128gb Android Gris;3.0;128.0
+MLA1128629058;Buenos Aires;Garin;122999.0;12;19865.36;93.81;1;0.92;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Samsung Galaxy A52s 5g 128 Gb Awesome Black 6 Gb Ram;6.0;128.0
+MLA1121736451;Capital Federal;Caballito;42999.0;12;6944.7;93.81;1;0.95;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Liberado Motorola E40 Gris Acero 64gb 4gb Ram;64.0;64.0
+MLA920684493;Buenos Aires;Béccar;75999.0;12;12274.47;93.81;1;0.97;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Celular Samsung Galaxy A32 Azul 128/4 Gb Techcel Nuevo Gtia;4.0;128.0
+MLA1137079613;Buenos Aires;Villa Lynch;80749.05;12;13041.64;93.81;1;0.93;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 (snapdragon) Dual Sim 128 Gb 4 Gb ;4.0;128.0
+MLA1111323142;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Celular Industrial Militar Robusto Blackview Bv6300 Pro 4g  ;6.0;128.0
+MLA1151953985;Buenos Aires;Béccar;73899.0;12;11935.3;93.81;1;0.97;Nuevo;Motorola;Moto G82;Adreno 619;Snapdragon 695 5G;173.0;Celular Motorola Moto G82 5g 6/128gb Negro Nuevo Al Click;6.0;128.0
+MLA1137037432;Capital Federal;San Nicolás;159990.0;6;26665.0;0.0;1;0.98;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone  X4 Pro 5g Dual Sim 8/256gb Black Cuotas;256.0;256.0
+MLA1141392900;Capital Federal;Puerto Madero;64599.05;3;21533.02;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb 50m Negro X3c;4.0;128.0
+MLA1144544635;Buenos Aires;Campana;55999.0;12;9044.31;93.81;0;0.86;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Liberado Samsung A13 Sm-a135 64g 6.6  Fhd Azul;4.0;128.0
+MLA1140667395;Capital Federal;Monte Castro;53999.0;3;17999.67;0.0;1;0.94;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 64gb 4gb Ram Negro Nuevo Garantía;4.0;128.0
+MLA1143723790;Capital Federal;Balvanera;52999.0;12;8559.78;93.81;1;0.96;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 64 Gb Light Blue 4 Gb Ram;4.0;128.0
+MLA1131674370;Capital Federal;Puerto Madero;47999.0;12;7752.24;93.81;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 128gb 48mpx Negro;64.0;64.0
+MLA1157085434;Capital Federal;Balvanera;53999.0;12;8721.29;93.81;1;0.9;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20se 256gb Gris Rva;256.0;256.0
+MLA1140414765;Buenos Aires;Villa Lynch;132999.05;12;21480.45;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Pocophone Poco X4 Pro 5g Dual 256 Gb Poco Yellow 8 Gb;256.0;256.0
+MLA1122019677;Buenos Aires;Campana;22999.0;12;3714.53;93.81;1;0.86;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Liberado Alcatel 1 Plus 5033er Negro 5  16 Gb;16.0;16.0
+MLA1116324683;Capital Federal;Parque Chas;99999.0;12;16150.67;93.81;1;0.95;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Celular Xiaomi Redmi Note 10s 6gb 128gb 64mpx 6,43'' White;6.0;128.0
+MLA1134095390;Capital Federal;Balvanera;90999.0;12;14697.1;93.81;1;0.92;Nuevo;Xiaomi;10 Dual SIM;Mali-G52;MediaTek Helio G88;181.0;Xiaomi Redmi 10 Dual Sim 128 Gb  Carbon Gray 4 Gb Ram Next;4.0;64.0
+MLA1142773780;Córdoba;Córdoba;55999.0;12;9044.31;93.81;1;0.93;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 4/64gb Blanco Con Gtia;4.0;128.0
+MLA1111305285;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Anti Golpe Libre De Fabrica Resistente;6.0;128.0
+MLA1153321940;Buenos Aires;Béccar;57999.0;3;19333.0;0.0;1;0.97;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 4/128gb Verde Nuevo 3 Cuotas S/i;4.0;128.0
+MLA1140098379;Buenos Aires;Béccar;99999.0;12;16150.67;93.81;1;0.97;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 6/128 Gb Negro Al Click Nuevo;6.0;128.0
+MLA1108027837;Córdoba;Pozo del Molle;79999.0;12;12920.51;93.81;1;0.98;Nuevo;Samsung;A32;Mali-G52 MC2;MediaTek Helio G80;184.0;Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram;4.0;128.0
+MLA1128664489;Santa Fe;Laguna Paiva;12804.0;6;2134.0;0.0;1;0.99;Nuevo;iPro;A6 Mini;;;;Teléfono Celular Ipro A6mini Teclado Dual Fm Libre Linterna;32.0;32.0
+MLA1143681336;Capital Federal;Balvanera;32999.0;12;5329.61;93.81;1;0.96;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Samsung Teléfono A03 Core 32 Gb Negro 2 Gb Ram Libre;32.0;32.0
+MLA1135983330;Capital Federal;Capital Federal;14490.0;12;2340.26;93.81;1;0.93;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Celular Adultos No Videntes Teclas Grandes Boton Sos;1.0;1.0
+MLA1152911296;Mendoza;Godoy Cruz;99990.0;6;16665.0;0.0;1;1.0;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11 4gb Ram 128gb Snapdragon Nuevos;4.0;128.0
+MLA1140693265;Capital Federal;Parque Patricios;69999.0;12;11305.42;93.81;1;0.93;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 6,6 5g 128gb 4gb Ram Blanco;4.0;128.0
+MLA1134740426;Capital Federal;Puerto Madero;36999.0;12;5975.65;93.81;1;0.92;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone 6,5 Samsung Galaxy A03 3gb 32gb 48mp Azul;64.0;64.0
+MLA1159007789;Buenos Aires;Avellaneda;55999.0;12;9044.31;93.81;1;0.93;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20se 6gb/256gb Gris T671e1-falcar11;256.0;256.0
+MLA1137307940;Santa Fe;Rosario;19999.0;12;3230.01;93.81;1;0.9;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Liberado Alcatel 1 Plus Android 11 (ge) 1gb 16gb;16.0;16.0
+MLA1151935905;Buenos Aires;Béccar;57999.0;12;9367.32;93.81;1;0.97;Nuevo;Motorola;G42;Adreno 610;Qualcomm Snapdragon 680 4G (6 nm);175.0;Celular Motorola Moto G42 4/128gb Rosa Nuevo Garantía;4.0;128.0
+MLA1139810791;Buenos Aires;Béccar;67950.0;3;22650.0;0.0;1;0.97;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g Gris 4/128 Gb 3 Cuotas S/i;4.0;128.0
+MLA1143831127;Capital Federal;Villa Urquiza;46289.0;6;7714.83;0.0;1;0.88;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 3gb 32gb Negro Sm-a035mzkaaro;64.0;64.0
+MLA1115320469;Santa Fe;Rosario;56999.0;12;9205.81;93.81;1;0.9;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Liberado Tcl 20se Gris Octa-core 6gb 256gb 48mpx;256.0;256.0
+MLA1135686688;Capital Federal;Puerto Madero;36999.0;12;5975.65;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone 6,5 Samsung Galaxy A03 3gb 32gb 48mp Azul;64.0;64.0
+MLA1131360267;Capital Federal;Puerto Madero;48999.0;3;16333.0;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 128gb Negro X3c;64.0;64.0
+MLA1139025756;Buenos Aires;Béccar;45149.0;6;7524.83;0.0;1;0.97;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 64 Gb Azul 4gb Ram 3 Cuotas S/i;64.0;64.0
+MLA1151020487;Buenos Aires;Berazategui;47899.0;12;7736.09;93.81;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Galaxy A03 Negro 128gb + 4gb Ram Liberado;64.0;64.0
+MLA1139228350;Buenos Aires;Garin;72999.0;6;12166.5;0.0;1;0.92;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Celular Samsung Galaxy A23 128gb + 4gb Ram 90z Celeste ;4.0;128.0
+MLA1143729552;Capital Federal;Balvanera;65999.0;6;10999.83;0.0;1;0.96;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Samsung Liberado A03 128 Gb Negro 4gb Ram Cuotas;64.0;64.0
+MLA1133464864;Santa Fe;Rosario;19190.0;12;3099.34;93.81;1;0.96;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Smartphone Alcatel 1 Plus 1gb Ram 16gb Negro;16.0;16.0
+MLA1131993293;Buenos Aires;Béccar;54399.0;12;8785.89;93.81;1;0.97;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0;Celular Motorola Moto G41 4/128gb Negro Ónix Nuevo Garantía;4.0;128.0
+MLA1143795319;Capital Federal;Villa Urquiza;71999.0;12;11628.44;93.81;1;0.99;Nuevo;Samsung;A23;Adreno 610;Snapdragon 680;195.0;Celular Samsung Galaxy A23 128gb + 4gb Ram Liberado White;4.0;128.0
+MLA1139547161;Capital Federal;Puerto Madero;58499.0;6;9749.83;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb Azul Cuotas;64.0;64.0
+MLA1135977598;Misiones;Posadas;155000.0;12;25033.79;93.81;1;0.93;Nuevo;Xiaomi;Poco X4 Pro 5G;Adreno 619;Snapdragon 695;205.0;Xiaomi Poco X4 Pro 5g Dual Sim 256 Gb  Laser Blue 8 Gb Ram;256.0;256.0
+MLA1118299713;Capital Federal;Puerto Madero;53999.0;3;17999.67;0.0;1;0.92;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Smartphone Motorola Moto E40 4gb 64gb 48mpx Gris X3c;64.0;64.0
+MLA1135481005;Buenos Aires;Lanús;34989.0;6;5831.5;0.0;1;0.93;Nuevo;TCL;L7+;Adreno 308;Qualcomm QM215;168.0;Tcl L7+ 32 Gb  Negro 2 Gb Ram Cuotas;32.0;32.0
+MLA1124901124;Buenos Aires;Villa Lynch;118749.05;12;19178.96;93.81;1;0.93;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10 Pro 128 Gb Gris Ónix 8 Gb Ram;6.0;128.0
+MLA1124590457;Capital Federal;Puerto Madero;41999.0;6;6999.83;0.0;1;0.92;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Celular Smartphone Samsung Galaxy A03 Core 2gb Negro Cuotas;32.0;32.0
+MLA1139854119;Buenos Aires;Béccar;89999.0;6;14999.83;0.0;1;0.97;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g Gris 4/128 Gb 9 Cuotas S/i;4.0;128.0
+MLA1124591003;Buenos Aires;Béccar;22799.0;3;7599.67;0.0;1;0.97;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Celular Libre Alcatel 1 Plus 16gb Volcano Black 3 Cuotas S/i;16.0;16.0
+MLA1153839514;Capital Federal;Capital Federal;74999.0;12;12112.96;93.81;1;0.92;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Redmi Note 11  4gb Ram 128gb Rom;4.0;128.0
+MLA1143713212;Capital Federal;Puerto Madero;56999.0;6;9499.83;0.0;1;0.94;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb Negro Cuotas;64.0;64.0
+MLA1140092274;Buenos Aires;Béccar;95999.0;6;15999.83;0.0;1;0.97;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 6/128 Gb Negro 3 Cuotas S/i;6.0;128.0
+MLA902222953;Capital Federal;Barracas;85000.0;12;13728.21;93.81;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Blackview Bv6300 Dual Sim Anti Golpes 32gb;32.0;32.0
+MLA1133721787;Capital Federal;Monte Castro;55999.0;12;9044.31;93.81;1;0.94;Nuevo;Motorola;G41;Mali-G52 MC2;MediaTek Helio G85;178.0; Celular Motorola Moto G41 128 Gb  Dorado Amanecer 4 Gb Ram;4.0;128.0
+MLA1121118245;Buenos Aires;Béccar;77358.57;6;12893.1;0.0;1;0.97;Nuevo;ZTE;V30 Vita;;;210.0;Celular Libre Zte Blade V30 Vita 3/128gb Gris 9 Cuotas S/i;3.0;128.0
+MLA1111271103;Capital Federal;Barracas;90000.0;12;14535.75;93.81;1;0.89;Nuevo;Blackview;BV6300 Pro;Mali-G72 MP3;MediaTek MT6771T Helio P70;230.0;Blackview Bv6300 Pro Todo Terreno Ip68 Liberado 4g Lte;6.0;128.0
+MLA930101197;Capital Federal;Barracas;26459.0;6;4409.83;0.0;1;0.96;Nuevo;Quantum;YOLO;Mali-T820;SC7731E;100.0;Celular Quantum Yolo 1gb Ram 32gb Dualsim Rojo Nuevo;32.0;32.0
+MLA1134044477;Capital Federal;C.A.B.A;122999.0;3;40999.67;0.0;1;0.92;Nuevo;Samsung;A53 5G;Mali-G68;Exynos 1280;189.0;Celular Samsung Galaxy A53 5g 128/6gb Awesome Black;6.0;128.0
+MLA1139558331;Capital Federal;Puerto Madero;45999.0;3;15333.0;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb 48m Negro X3c;64.0;64.0
+MLA1151960320;Capital Federal;Barracas;68249.0;6;11374.83;0.0;1;0.87;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128+4gb Blanco;4.0;128.0
+MLA1158592099;Córdoba;Córdoba;31499.0;3;10499.67;0.0;1;0.93;Nuevo;Samsung;A03 Core;IMG8322;Unisoc SC9863A;211.0;Samsung Galaxy A03 Core 32gb;32.0;32.0
+MLA1139431899;Capital Federal;Recoleta;82700.0;12;13356.74;93.81;1;0.98;Nuevo;Xiaomi;Note 11 (Snapdragon);Adreno 610;Snapdragon 680;179.0;Xiaomi Redmi Note 11  Dual Sim 128 Gb  Azul Estelar 4 Gb Ram;4.0;128.0
+MLA1149524729;Buenos Aires;San Martin;67990.0;12;10980.95;93.81;1;0.97;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Samsung Galaxy A22 5g 128 Gb  White 4 Gb Ram;4.0;128.0
+MLA902218835;Capital Federal;Barracas;85000.0;12;13728.21;93.81;1;0.89;Nuevo;Blackview;BV6300;PowerVR GE8320;MediaTek MT6762V Helio A25;230.0;Blackview Bv6300 Todo Terreno Ip68 Liberado 4g Lte;32.0;32.0
+MLA1128670918;Capital Federal;Puerto Madero;161499.05;6;26916.51;0.0;1;0.92;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Smartphone 5g Samsung Galaxy A52s 6gb 128gb Cuotas;6.0;128.0
+MLA1140085613;Buenos Aires;Béccar;105999.0;6;17666.5;0.0;1;0.97;Nuevo;Samsung;A33 5G;Mali-G68;Exynos 1280;186.0;Celular Samsung Galaxy A33 5g 6/128 Gb Negro 3 Cuotas S/i;6.0;128.0
+MLA1135865021;Capital Federal;Puerto Madero;49999.0;6;8333.17;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 3gb 32gb Azul Cuotas;64.0;64.0
+MLA1116331884;Capital Federal;Parque Chas;99999.0;12;16150.67;93.81;1;0.95;Nuevo;Xiaomi;Note 10S;Mali-G76 MC4;MediaTek Helio G95;178.0;Celular Xiaomi Redmi Note 10s 6gb 128gb 64mpx 6,43'' Blue;6.0;128.0
+MLA1146378266;Capital Federal;Puerto Madero;55999.0;12;9044.31;93.81;1;0.95;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Smartphone Samsung Galaxy A13 4gb 64gb 50mpx Celeste;4.0;128.0
+MLA1134218641;Buenos Aires;Béccar;63999.0;6;10666.5;0.0;1;0.97;Nuevo;Motorola;G22;PowerVR GE8320;Mediatek MT6765V/CB Helio G37;185.0;Celular Motorola Moto G22 4/128gb Celeste Nuevo 9 Cuotas S/i;4.0;128.0
+MLA1119252940;Capital Federal;Puerto Madero;56999.05;6;9499.84;0.0;1;0.92;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Smartphone 6,5 Motorola Moto E40 4gb 64gb Gris Cuota;64.0;64.0
+MLA1137775633;Buenos Aires;Béccar;39999.0;6;6666.5;0.0;1;0.97;Nuevo;Konka;Indus;;;;Celular Libre Konka Indus 3/32gb Dual Sim Nuevo 9 Cuotas S/i;32.0;32.0
+MLA1140397392;Capital Federal;Puerto Madero;51999.0;6;8666.5;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Celular Smartphone Samsung Galaxy A03 4gb 64gb 48m Negro X3c;64.0;64.0
+MLA1128556772;Buenos Aires;Béccar;122950.0;6;20491.67;0.0;1;0.97;Nuevo;Samsung;A52s 5G;Adreno 642L;Snapdragon 778G 5G;189.0;Celular Samsung Galaxy A52s 5g 6/128 Gb Negro 3 Cuotas S/i;6.0;128.0
+MLA1146810828;Buenos Aires;Berazategui;37799.0;6;6299.83;0.0;1;0.95;Nuevo;Kodak;D65LX;IMG8322;Unisoc SC9863A;190.0;Celular Kodak Seren D65lx Octa Core 64gb /2gb Id Face Huella;64.0;64.0
+MLA1131803640;Capital Federal;Balvanera;69999.0;12;11305.42;93.81;1;0.9;Nuevo;Samsung;A22 5G;Mali-G57 MC2;MediaTek MT6833 Dimensity 700;203.0;Celular Samsung Galaxy A22 5g 128 Gb White;4.0;128.0
+MLA1113923903;Buenos Aires;Béccar;58999.0;6;9833.17;0.0;1;0.97;Nuevo;Motorola;E40;Mali-G52;Unisoc T700;198.0;Celular Motorola Moto E40 4/64 Gb Rosa Techcel 9 Cuotas S/i;64.0;64.0
+MLA1146555819;Buenos Aires;San Andres;59043.0;6;9840.5;0.0;1;0.95;Nuevo;Samsung;A03;IMG8322;Unisoc SC9863A;196.0;Samsung Galaxy A03 64 Gb Negro 4 Gb Ram;64.0;64.0
+MLA1149534196;Capital Federal;Puerto Madero;26599.05;6;4433.18;0.0;1;0.94;Nuevo;Alcatel;1;PowerVR GE8100;MediaTek MT6739;134.0;Celular Smartphone Alcatel 1 Ultra 1gb 32gb 8mpx Android X3c;16.0;16.0
+MLA1135707131;Buenos Aires;Béccar;69999.0;6;11666.5;0.0;1;0.97;Nuevo;Samsung;A13 Dual SIM;Mali-G52;Exynos 850 (8nm);195.0;Celular Samsung Galaxy A13 Negro 4/128 Gb Nuevo 9 Cuotas S/i;4.0;128.0
+MLA1139074188;Buenos Aires;Quilmes;22998.0;12;3714.37;93.81;1;0.95;Nuevo;Alcatel;1 Plus;IMG GE8100;MediaTek MT6739;134.0;Alcatel 1 Plus 16 Gb  Negro 1 Gb Ram Volcano;16.0;16.0
+MLA1157943924;Santa Fe;Laguna Paiva;10999.0;12;1776.43;93.81;1;0.99;Nuevo;iPro;F183;;Spreadtrum SC6531E;;Telefono Ipro F183 Senior Teclas Grandes Tecla Sos;1.0;1.0
+MLA1154305352;Neuquén;Neuquén;60094.0;12;9705.68;93.81;1;1.0;Nuevo;TCL;20 SE;Adreno 610;Snapdragon 460;206.0;Celular Tcl 20se  6gb/256gb (t671e) Gris;256.0;256.0
+MLA1132668811;Capital Federal;Palermo;99599.0;12;16086.07;93.81;1;1.0;Nuevo;Xiaomi;Note 10 Pro (Global);Adreno 618;Snapdragon 732G;193.0;Xiaomi Redmi Note 10pro (global) 128gb Azul Glaciar 6gb Ram;6.0;128.0
+MLA1135129886;Buenos Aires;Villa Celina;60999.0;6;10166.5;0.0;1;0.92;Nuevo;Samsung;A13;Mali-G57;Exynos 850;195.0;Celular Samsung Galaxy A13 128gb + 4gb Ram Pls Lcd Negro;4.0;128.0
